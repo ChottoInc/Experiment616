@@ -96,7 +96,7 @@ public static class Helper
 
 
     public static DialogueSettings level8Dialogue1 = new DialogueSettings(ID_DOC1, "Phase 3 is now over!");
-    public static DialogueSettings level8Dialogue2 = new DialogueSettings(ID_DOC2, "Congratulations everyone! Subject 616 is by far our biggest success.");
+    public static DialogueSettings level8Dialogue2 = new DialogueSettings(ID_DOC2, "Congratulations everyone! Subject 626 is by far our biggest success.");
     public static DialogueSettings level8Dialogue3 = new DialogueSettings(ID_DOC2, "This is the first step towards the next technological era.");
 
     public static DialogueSettings level8Dialogue4 = new DialogueSettings(ID_PLAYER_UNKNOWN, ".............");
